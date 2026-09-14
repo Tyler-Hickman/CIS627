@@ -12,6 +12,8 @@ Using Alamar's 4 phases of innovation, this concept exists within the engagement
 
 - Prototype Enhancement:
 In addition to utilizing in-game yards gained or lost on either run or pass plays, the tool will also track the success of similar plays across other games. By using historical data, the team can determine which plays are best for specific scenarios to minimize uncertainty. 
+- Prototype Evaluation: 
+The proposed prototype enhancement should be integrated into the main branch. The coaches and team decision makers should have access to historical data to aid in making informed real-time decisions. 
 
 References
 Alamar, B. C. (2024). Sports analytics: A guide for coaches, managers, and other decision makers (2nd ed.). Columbia University Press. 
