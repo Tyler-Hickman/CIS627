@@ -10,6 +10,8 @@ NFL coaches will have real-time access to this tool to aid in their decision-mak
 - Connection to Chapter 7:
 Using Alamar's 4 phases of innovation, this concept exists within the engagement phase (Alamar, 2024). This tool exists, and can. be useful to coaches across the league. Those wishiing to invest in it would see benefit, but there isn't a whole lot to expand upon once the data is accessed.
 
+- Prototype Enhancement:
+In addition to utilizing in-game yards gained or lost on either run or pass plays, the tool will also track the success of similar plays across other games. By using historical data, the team can determine which plays are best for specific scenarios to minimize uncertainty. 
 - Prototype Evaluation: 
 The proposed prototype enhancement should be integrated into the main branch. The coaches and team decision makers should have access to historical data to aid in making informed real-time decisions. 
 
